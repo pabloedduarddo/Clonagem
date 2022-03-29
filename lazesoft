@@ -1,0 +1,15 @@
+Passo a passo de uma clonagem..... Utilizando o Lazesoft
+https://www.hirensbootcd.org/download/
+
+01 - Copiar a ISO Hiren's BootCD para a pasta (C:)
+02 - Desligar a maquina, selecionando a ISOHiren's BootCD
+03 - Alterar as configurações, e selecionar a ISO como porta sata 0
+04 - Iniciar a maquina, que já estara com a ISO funcionando
+
+Depois, vai aparecer alguns app de clonagem
+Fiz o uso do Lazesoft
+Antes de iniciar a clonagem, um armazenamento novo precisa ser criado, maior e sem nada
+Esse novo espaço para o armazenamento, precisa ser colocado como porta sata 1
+Feito isso, reinicie a maquina, e já pode clonar
+Aguarde enquanto carrega
+E faça a clonagem do HD que tem o windows!!!
